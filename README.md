@@ -1,2 +1,2 @@
 # Swipey
-A photo library management app.
+A Photo library management iOS app.
