@@ -24,14 +24,14 @@ struct PhotoLibraryRequestView: View {
                             .frame(width: 80, height: 80)
                             .foregroundColor(.blue)
 
-                        Text("Swiper")
+                        Text("Swipey")
                             .font(.largeTitle)
                             .fontWeight(.bold)
                             .foregroundColor(.primary)
                     }
 
                     // Information Text
-                    Text("Swiper uses your Photo library to help you manage your photos, videos, live pictures, and more!")
+                    Text("Swipey uses your Photo library to help you manage your photos, videos, live pictures, and more!")
                         .multilineTextAlignment(.center)
                         .foregroundColor(.secondary)
                         .padding(.horizontal)
